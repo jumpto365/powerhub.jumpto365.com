@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            PowerHub Tutorial - 5min ⏱️
           </Link>
         </div>
       </div>
@@ -31,7 +31,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Ever wondered on how to share your power with your friends? Well, now you can!">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
