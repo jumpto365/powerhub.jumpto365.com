@@ -6,11 +6,15 @@ Ever wondered on how to share your power with your friends? Well, now you can! W
 
 Use PowerHub for inspiration and governance of your Power* solutions.
 
-By keeping an eye on new solutions as they get created you get a hook into the eco system of your company. Use the simple rate system for governance, e.g. apps that have been shared with anyone, or haven't been modified for a year scores low,  them based on if they are shared with a few or all. 
-
+By keeping an eye on the Power* solutions, you can see what's going on, and what's not. You can also see what's going on in the Power* solutions, and what's not.
 
 PowerHub is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
+## Easy start
+
+https://github.com/jumpto365/powerhub.jumpto365.com/generate
+
+## For DevOps
 ### Installation
 
 ```
